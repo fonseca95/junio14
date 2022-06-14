@@ -1,9 +1,10 @@
  iniciando archivo 2
 segundo archivo
 linea 3
-linea 4
+linea 4 M0D1F1C4D4
 linea 5
 linea 6
 ESTO ES NUEVO
 YA CAMBIO EL ARCHIVO
 NUEVA LINEA
+LINEA 10
