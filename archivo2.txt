@@ -1,0 +1,3 @@
+ iniciando archivo 2
+segundo archivo
+linea 3
